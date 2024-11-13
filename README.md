@@ -32,7 +32,8 @@ At this stage of Analysis within the NoteBook, steps 1 and 2 above are complete 
 * Calculate Conversion rates for both groups are calculated and visualize them.
 
 ### Step 6: Z-Test for Statistical Significance
-* The Z-test is performed to determine if the difference in conversion rates between the two groups is statistically significant.   * Note: A p-value less than 0.05 suggests a significant difference.
+* The Z-test is performed to determine if the difference in conversion rates between the two groups is statistically significant.
+* Note: A p-value less than 0.05 suggests a significant difference.
 
 ## Interpretation of Results
 * In this analysis, the p-value was 0.582, which is greater than 0.05, indicating that the difference in conversion rates between the control and treatment groups is not statistically significant.
