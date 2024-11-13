@@ -1,7 +1,6 @@
 # A/B Testing Using Python: Summary and Code Walkthrough
 
 ## Overview
-![unnamed](https://github.com/user-attachments/assets/37645c90-9b98-4702-9dca-48873edb05ba)
 
 A/B testing is a method used to compare two variants (A and B) to determine which performs better based on certain metrics. 
 The general steps in conducting A/B testing are as follows:
